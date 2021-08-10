@@ -15,3 +15,7 @@
     <li>Property_Area</li>
 </ul>
 </p>
+<p>Here are some screenshots of the application</p>
+
+![alt text](./ReadMeimages/LoanForm1.PNG?raw=true)
+![alt text](./ReadMeimages/LoanForm2.PNG?raw=true)
